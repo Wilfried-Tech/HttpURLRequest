@@ -10,9 +10,9 @@ public class Main {
         FormData formData = new FormData();
         formData.add("authname", "Wilfried-Tech");
         formData.add("authpass", "jtmlucie63");
-
+        
         try {
-            xhr.open("get", "http://localhost/test/", "Wilfried-Tech", "jtmlucie63");
+            xhr.open("get", "http://projects/test/", "Wilfried-Tech", "jtmlucie63");
             xhr.setRequestHeader("test", "okay");
             HttpURLResponse response = xhr.send(formData);
             System.out.println("===========Response==========");

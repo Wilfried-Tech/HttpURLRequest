@@ -10,19 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cd531cc-99ed-42a0-bea7-1beabd9d5116" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/HttpURLRequest_jar.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpURLRequest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HttpURLRequest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/test/HttpURLRequest/META-INF/HttpURLRequest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wilfried/tech/net/HttpURLRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wilfried/tech/net/HttpURLRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wilfried/tech/net/HttpURLResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wilfried/tech/net/HttpURLResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/artifacts/HttpURLRequestJar/HttpURLRequest.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bin/artifacts/HttpURLRequestJar/HttpURLRequest.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/wilfried/tech/net/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/wilfried/tech/net/test/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2I0DXDdHsI7jLRNVpc8SwpL0N6e" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "W:/HttpURLRequest",
+    "last_opened_file_path": "D:/Utilities/JetBrains Trial Reset IDE Eval v2.1.14/ide-eval-resetter-2.1.14.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +57,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "xpath.settings"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -85,6 +91,8 @@
       <workItem from="1669839134073" duration="1333000" />
       <workItem from="1669842629656" duration="78000" />
       <workItem from="1669843540571" duration="2078000" />
+      <workItem from="1672022890832" duration="1593000" />
+      <workItem from="1672103576489" duration="488000" />
     </task>
     <servers />
   </component>
